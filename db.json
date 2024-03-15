@@ -1,0 +1,238 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "john@mail.com",
+      "password": "dontchange",
+      "name": "Jhon",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-03-15T04:14:25.000Z",
+      "updatedAt": "2024-03-15T04:14:25.000Z",
+      "tableData": {
+        "id": 0,
+        "editCellList": [
+          {
+            "title": "Password",
+            "field": "password",
+            "tableData": {
+              "columnOrder": 4,
+              "groupSort": "asc",
+              "width": "calc((100% - (0px)) / 7)",
+              "initialWidth": "calc((100% - (0px)) / 7)",
+              "additionalWidth": 0,
+              "id": 4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "email": "maria@mail.com",
+      "password": "12345",
+      "name": "Maria",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/DTfowdu.jpg",
+      "creationAt": "2024-03-15T04:14:25.000Z",
+      "updatedAt": "2024-03-15T04:14:25.000Z"
+    },
+    {
+      "id": "3",
+      "email": "admin@mail.com",
+      "password": "admin123",
+      "name": "Admin",
+      "role": "admin",
+      "avatar": "https://i.imgur.com/yhW6Yw1.jpg",
+      "creationAt": "2024-03-15T04:14:25.000Z",
+      "updatedAt": "2024-03-15T04:14:25.000Z"
+    },
+    {
+      "id": "4",
+      "email": "nico@gmail.com",
+      "password": "12322",
+      "name": "Nicolas",
+      "role": "customer",
+      "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+      "creationAt": "2024-03-15T04:37:55.000Z",
+      "updatedAt": "2024-03-15T04:37:55.000Z"
+    },
+    {
+      "id": "11",
+      "email": "mukosi@gmail.com",
+      "password": "ozil",
+      "name": "ozil",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Rs.jpg",
+      "creationAt": "2024-03-15T05:58:16.000Z",
+      "updatedAt": "2024-03-15T05:58:16.000Z"
+    },
+    {
+      "id": "13",
+      "email": "Vijay@mail.com",
+      "password": "changeme",
+      "name": "Ajaya",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-03-15T06:06:08.000Z",
+      "updatedAt": "2024-03-15T06:06:08.000Z"
+    },
+    {
+      "id": "14",
+      "email": "azimjon8253@gmail.com",
+      "password": "qweqwe123",
+      "name": "abduazim",
+      "role": "customer",
+      "avatar": "https://avatars.githubusercontent.com/u/119504866?v=4",
+      "creationAt": "2024-03-15T06:10:44.000Z",
+      "updatedAt": "2024-03-15T06:10:44.000Z"
+    },
+    {
+      "id": "15",
+      "email": "qwq@ukr.net",
+      "password": "qwqw",
+      "name": "qwq",
+      "role": "customer",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLqncOEHSGzaifTyQtrTD7XnET93bFIFiUpQ&usqp=CAU",
+      "creationAt": "2024-03-15T06:25:50.000Z",
+      "updatedAt": "2024-03-15T06:25:50.000Z"
+    },
+    {
+      "id": "16",
+      "email": "szFCxzfc@gmail.com",
+      "password": "asfdsgfdshgdf",
+      "name": "adsgfjhdsf",
+      "role": "customer",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLqncOEHSGzaifTyQtrTD7XnET93bFIFiUpQ&usqp=CAU",
+      "creationAt": "2024-03-15T06:27:52.000Z",
+      "updatedAt": "2024-03-15T06:27:52.000Z"
+    },
+    {
+      "id": "17",
+      "email": "fjldsjg@ukr.net",
+      "password": "sdgfdshgfdh",
+      "name": "віфрлармвіфла",
+      "role": "customer",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz8HdHC7TiGllYHQCZtA0evooHliEbhGhkyn6fVEmWhkoSMnlhGgyMEivjpSdOADbadww&usqp=CAU",
+      "creationAt": "2024-03-15T06:36:51.000Z",
+      "updatedAt": "2024-03-15T06:36:51.000Z"
+    },
+    {
+      "id": "18",
+      "email": "madhan@do.com",
+      "password": "12345678",
+      "name": "madhan",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-03-15T07:15:16.000Z",
+      "updatedAt": "2024-03-15T07:15:16.000Z"
+    },
+    {
+      "id": "19",
+      "email": "pipikwalid@gmail.com",
+      "password": "Manunited22",
+      "name": "pipik",
+      "role": "customer",
+      "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+      "creationAt": "2024-03-15T07:29:40.000Z",
+      "updatedAt": "2024-03-15T07:29:40.000Z"
+    },
+    {
+      "id": "20",
+      "email": "tea@gmail.com",
+      "password": "12345678",
+      "name": "tv",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-03-15T07:35:05.000Z",
+      "updatedAt": "2024-03-15T07:35:05.000Z"
+    },
+    {
+      "id": "21",
+      "email": "tea@gmail.com",
+      "password": "12345678",
+      "name": "tv",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-03-15T07:35:06.000Z",
+      "updatedAt": "2024-03-15T07:35:06.000Z"
+    },
+    {
+      "id": "22",
+      "email": "sora@gmail.com",
+      "password": "87650943",
+      "name": "sora",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-03-15T07:36:15.000Z",
+      "updatedAt": "2024-03-15T07:36:15.000Z"
+    },
+    {
+      "id": "23",
+      "email": "jana@gmail.com",
+      "password": "23456789",
+      "name": "jan",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-03-15T07:44:42.000Z",
+      "updatedAt": "2024-03-15T07:44:42.000Z"
+    },
+    {
+      "id": "24",
+      "email": "nana@mlbb.com",
+      "password": "nana123",
+      "name": "Nana",
+      "role": "customer",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/005/129/844/non_2x/profile-user-icon-isolated-on-white-background-eps10-free-vector.jpg",
+      "creationAt": "2024-03-15T08:02:21.000Z",
+      "updatedAt": "2024-03-15T08:02:21.000Z"
+    },
+    {
+      "id": "25",
+      "email": "nana@mlbb.com",
+      "password": "nana123",
+      "name": "Nana",
+      "role": "customer",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/005/129/844/non_2x/profile-user-icon-isolated-on-white-background-eps10-free-vector.jpg",
+      "creationAt": "2024-03-15T08:05:44.000Z",
+      "updatedAt": "2024-03-15T08:05:44.000Z"
+    },
+    {
+      "id": "fe1d",
+      "email": "Vijay@mail.com",
+      "password": "changeme",
+      "name": "Ajaya",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-03-13T22:03:35.000Z",
+      "updatedAt": "2024-03-13T22:03:35.000Z"
+    },
+    {
+      "id": "ce3d",
+      "name": "SASS ",
+      "email": "shankar@gmail.com",
+      "role": "SE",
+      "password": "143143",
+      "creationAt": "12/2020/20024",
+      "updatedAt": "01/02/2005",
+      "avatar": "djjsdjsddnns",
+      "tableData": {
+        "id": 19,
+        "editCellList": [
+          {
+            "title": "Role",
+            "field": "role",
+            "tableData": {
+              "columnOrder": 3,
+              "groupSort": "asc",
+              "width": "calc((100% - (0px)) / 7)",
+              "initialWidth": "calc((100% - (0px)) / 7)",
+              "additionalWidth": 0,
+              "id": 3
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
