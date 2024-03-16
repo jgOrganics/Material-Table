@@ -1,10 +1,9 @@
+import  Table  from '../src/component/MaterialTable';
 import './App.css';
-import Service from './component/MaterialTable';
-
 function App() {
   return (
     <div className="App">
-       <Service/>
+       <Table/>
     </div>
   );
 }
