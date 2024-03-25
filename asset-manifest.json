@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Material-Table/static/css/main.9a71fbc5.css",
-    "main.js": "/Material-Table/static/js/main.fc94f767.js",
+    "main.js": "/Material-Table/static/js/main.64b84226.js",
     "static/js/52.4f855b6d.chunk.js": "/Material-Table/static/js/52.4f855b6d.chunk.js",
     "static/js/760.485a70f9.chunk.js": "/Material-Table/static/js/760.485a70f9.chunk.js",
     "static/js/239.9ed6f663.chunk.js": "/Material-Table/static/js/239.9ed6f663.chunk.js",
@@ -10,6 +10,6 @@
   },
   "entrypoints": [
     "static/css/main.9a71fbc5.css",
-    "static/js/main.fc94f767.js"
+    "static/js/main.64b84226.js"
   ]
 }
