@@ -95,17 +95,29 @@ function Table() {
                 columns={columns}
                 data={data}
                 icons={tableIcons}
-                Filter
                 options={{
                     selection: true,
+                    columnsButton: true,
                     draggable: true,
                     grouping: false,
                     sorting: true,
                     search: true,
                     paging: true,
+                    pageSizeOptions: [5, 10, 20, 25, 50, 75, 100],
+                    paginationPosition: "both",
+                    exportButton: true,
+                    exportAllData: true,
+                    exportFileName: "Users Data",
+                    filtering: true,
+                    searchFieldAlignment: "right",
+                    searchAutoFocus: true,
+                    searchFieldVariant: "outlined",
                     actionsColumnIndex: -1,
                     addRowPosition: "first",
-                    headerStyle: { size: '80px' },
+                    headerStyle: {
+                        // size: '150px',
+                        fontStyle: "italic", backgroundColor: "skyblue"
+                    },
                 }}
                 
                 cellEditable={{
